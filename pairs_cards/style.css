@@ -1,0 +1,12 @@
+button {    
+    width: 100px;
+    min-height: 100px;
+    color: white;
+    background: black;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
